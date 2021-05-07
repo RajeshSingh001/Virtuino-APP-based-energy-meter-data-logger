@@ -1,0 +1,7 @@
+Virtuino ESP library version 1.62
+Supports Virtuino app ver 2.2.1 or higher
+
+
+Library 1.62
+Added:  Text Commands
+ 
